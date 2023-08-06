@@ -12,8 +12,8 @@ export const BackgroundImage = styled.div`
   left: 0;
   width: 100%;
   height: 100%;
-  // background-image: url('https://images.unsplash.com/photo-1542204165-19b33620e2c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODF8fG1vdmllfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60');
-  // background-position: center;
+  background-image: url('https://images.unsplash.com/photo-1501183007986-d0d080b147f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80');
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   opacity: 0.3;
